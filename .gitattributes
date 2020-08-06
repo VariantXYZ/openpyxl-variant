@@ -1,0 +1,10 @@
+* text eol=lf
+*.ini text
+*.yml text
+*.py text
+*.xml text
+*.rst text
+*.txt text
+*.xlsx binary
+*.png binary
+*.zip binary

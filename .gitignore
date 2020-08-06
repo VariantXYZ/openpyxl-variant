@@ -28,3 +28,7 @@ Compliance
 Spec
 doc/api
 openpyxl-env
+build/
+__pycache__/
+dist/
+openpyxl.egg-info/
